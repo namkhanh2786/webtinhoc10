@@ -1,0 +1,139 @@
+@font-face {
+    font-family: 'Book Antiqua';
+    src: url('/fonts/Book_Antiqua.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.logotext
+{
+    color:#68f322; 
+    font-family: 'Press Start 2P', cursive;
+}
+
+.logotext img
+{
+    margin-left: 0px;
+    margin-right: 7px;
+}
+
+nav{
+    background: rgba(11, 11, 11, 0);  /* opacity: 0.02 */
+}
+
+/* background animation: hơi non tay nên làm tạm tạm :D */
+body {
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(rgba(11, 46, 89, 0.5), rgba(11, 46, 89, 0.5)), rgba(11, 46, 89, 0.5)
+    url(https://th.bing.com/th/id/R.282bdbbf4a8d5e30f2cd563f69f20b12?rik=GMMuNS3TZrhi3w&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fAOZUUB9.jpg&ehk=CP%2fMhuaqHj2QKm3t5yYiBP9l%2fhzEP53XxbK9nP4ujew%3d&risl=&pid=ImgRaw&r=0);
+    background-size: 100% 100%;
+}
+
+.title
+{
+    font-family: "Book Antiqua";
+    color: palegoldenrod;
+}
+
+.table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    background-color: #ffffff;
+}
+
+.dpTable 
+{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+@media screen and (max-width: 600px) {
+    table {
+      font-size: 0.8em;
+    }
+  }
+  
+  @media screen and (max-width: 400px) {
+    table {
+      font-size: 0.7em;
+    }
+  }
+  
+  
+.table thead th {
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+}
+  
+.table th, .table td {
+    padding: 12px 15px;
+}
+  
+.table tbody tr {
+    border-bottom: 1px solid #9dfa3a;
+}
+  
+.table tbody tr:nth-of-type(even) {
+    background-color: #bcfa7d;
+}
+  
+.table-info {
+    font-weight: bold;
+}
+/* CSS cho phân trang */
+.pagination-container {
+    display: flex;
+    justify-content: center;
+}
+  
+.pagination-button {
+    cursor: pointer;
+    margin: 0 7px;
+    padding: 6px 10px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    color: #333;
+    transition: background-color .3s; /* event chuyển nút paginate diễn ra chậm lại */
+}
+
+.pagination-button:hover:not(.active)
+{
+    background-color: #cbe6b5;
+}
+/* ví dụ đang ở trang 1 thì cái này sẽ hoạt động */
+.pagination-button.active {
+    background-color: #5ed838;
+    color: white;
+}
+/* */
+
+hr
+{
+    border-width: 100px;
+}
+
+#pg-button
+{
+    border-radius: 5px;
+}
+
+#pagination-container
+{
+    margin-left: 25px;
+}
+
+.search-header
+{
+    margin-left: 25px;
+}
+
+.search-button
+{
+    margin-right: 50px;
+}
