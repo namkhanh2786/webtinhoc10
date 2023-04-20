@@ -1,6 +1,7 @@
 HƯỚNG DẪN CHẠY FILE TRONG FOLDER 'test':
 
-BƯỚC 1: tải Xampp từ trang web https://www.apachefriends.org/download.html \n
+BƯỚC 1: tải Xampp từ trang web https://www.apachefriends.org/download.html
+
 *Dùng hệ điều hành nào thì tải bản Xampp của hệ điều hành đó
 *Khuyến khích nên tải version mới nhất
 
@@ -9,7 +10,7 @@ Lưu ý: Tên thư mục cài đặt XAMPP không nên có khoảng trắng - 1 
 
 Bước 3: Tải folder 'test' xuống, ghi nhớ vị trí tải folder.
 
-Bước 4: Search trên máy từ khóa 'Xampp', hoặc trong lúc cài đặt, trình cài đặt sẽ hỏi địa chỉ để folder, hãy copy địa chỉ ấy rồi paste vào search (đối với Windows)
+Bước 4: Search trên máy từ khóa 'Xampp', hoặc trong lúc cài đặt, trình cài đặt sẽ hỏi địa chỉ để folder, hãy copy địa chỉ ấy rồi paste vào tìm kiếm trên thanh task bar.
 
 Bước 5: Ta di dời folder 'test' từ bước 3 vào trong folder 'htdocs' của folder Xampp, chi tiết từ folder: xampp -> htdocs
 
