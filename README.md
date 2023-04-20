@@ -1,6 +1,6 @@
 HƯỚNG DẪN CHẠY FILE TRONG FOLDER 'test':
 
-BƯỚC 1: tải Xampp từ trang web https://www.apachefriends.org/download.html
+BƯỚC 1: tải Xampp từ trang web https://www.apachefriends.org/download.html \n
 *Dùng hệ điều hành nào thì tải bản Xampp của hệ điều hành đó
 *Khuyến khích nên tải version mới nhất
 
