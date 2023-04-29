@@ -2,8 +2,8 @@
 
 **Bước 1**: tải Xampp từ trang web https://www.apachefriends.org/download.html
 
-*_Dùng hệ điều hành nào thì tải bản Xampp của hệ điều hành đó_  
-*_Khuyến khích nên tải version mới nhất_
+*_Dùng hệ điều hành nào thì tải bản Xampp của hệ điều hành đó._  
+*_Khuyến khích nên tải version mới nhất._
 
 **Bước 2**: Chạy file cài đặt - bạn cần ghi nhớ tên thư mục cài đặt, ví dụ: F:/xampp  
 _Lưu ý_: Tên thư mục cài đặt XAMPP không nên có khoảng trắng - 1 số đoạn mã sẽ không chạy được.
@@ -12,9 +12,9 @@ _Lưu ý_: Tên thư mục cài đặt XAMPP không nên có khoảng trắng - 
 
 **Bước 4**: Search trên máy từ khóa 'Xampp', hoặc trong lúc cài đặt, trình cài đặt sẽ hỏi địa chỉ để folder, hãy copy địa chỉ ấy rồi paste vào chức năng "tìm kiếm (Search)" trên thanh task bar.
 
-**Bước 5**: Di dời folder 'test' từ bước 3 vào trong folder 'htdocs' của folder Xampp, chi tiết từ folder: xampp -> htdocs
+**Bước 5**: Di dời folder 'test' từ bước 3 vào trong folder 'htdocs' của folder Xampp, chi tiết từ folder: xampp -> htdocs.
 
-**Bước 6**: Mở control panel xampp từ bước 4 và run 2 module là Apache và MySQL
+**Bước 6**: Mở control panel xampp từ bước 4 và run 2 module là Apache và MySQL.
 
 **Bước 7**: Vào browser và search địa chỉ sau: http://localhost/phpmyadmin/
 
@@ -34,7 +34,7 @@ CREATE TABLE book (
 ); 
 ```
 
-Sau khi đã paste code thì bấm nút GO
+Sau khi đã paste code thì bấm nút GO.
 
 **Bước 9**: Truy cập vào đường link sau: http://localhost/test/
 
