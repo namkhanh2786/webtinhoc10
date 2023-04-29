@@ -2,11 +2,11 @@
 
 **Bước 1**: tải Xampp từ trang web https://www.apachefriends.org/download.html
 
-*_Dùng hệ điều hành nào thì tải bản Xampp của hệ điều hành đó
-*_Khuyến khích nên tải version mới nhất
+*_Dùng hệ điều hành nào thì tải bản Xampp của hệ điều hành đó_
+*_Khuyến khích nên tải version mới nhất_
 
 **Bước 2**: Chạy file cài đặt - bạn cần ghi nhớ tên thư mục cài đặt, ví dụ: F:/xampp
-_Lưu ý: Tên thư mục cài đặt XAMPP không nên có khoảng trắng - 1 số đoạn mã sẽ không chạy được.
+_Lưu ý_: Tên thư mục cài đặt XAMPP không nên có khoảng trắng - 1 số đoạn mã sẽ không chạy được.
 
 **Bước 3**: Tải folder 'test' xuống, ghi nhớ vị trí tải folder.
 
