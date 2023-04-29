@@ -19,7 +19,7 @@ Bước 6: Mở control panel xampp từ bước 4 và run 2 module là Apache v
 Bước 7: Vào browser và search địa chỉ sau: http://localhost/phpmyadmin/
 
 Bước 8: Bấm vào SQL và chạy paste đoạn mã sau:
-'CREATE DATABASE book;
+'''CREATE DATABASE book;
 
 USE book;
 
@@ -30,7 +30,7 @@ CREATE TABLE book (
   author VARCHAR(100) COLLATE utf8mb4_general_ci NOT NULL,
   gerne VARCHAR(100) COLLATE utf8mb4_general_ci NOT NULL,
   description TEXT COLLATE utf8_general_ci NOT NULL
-);'
+);'''
 
 Sau khi đã paste code thì bấm nút GO
 
