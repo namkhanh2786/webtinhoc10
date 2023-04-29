@@ -31,7 +31,8 @@ CREATE TABLE book (
   author VARCHAR(100) COLLATE utf8mb4_general_ci NOT NULL,
   gerne VARCHAR(100) COLLATE utf8mb4_general_ci NOT NULL,
   description TEXT COLLATE utf8_general_ci NOT NULL
-); ```
+); 
+```
 
 Sau khi đã paste code thì bấm nút GO
 
