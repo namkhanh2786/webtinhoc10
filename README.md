@@ -2,7 +2,7 @@
 
 **Bước 1**: tải Xampp từ trang web https://www.apachefriends.org/download.html
 
-*_Dùng hệ điều hành nào thì tải bản Xampp của hệ điều hành đó_
+*_Dùng hệ điều hành nào thì tải bản Xampp của hệ điều hành đó_  
 *_Khuyến khích nên tải version mới nhất_
 
 **Bước 2**: Chạy file cài đặt - bạn cần ghi nhớ tên thư mục cài đặt, ví dụ: F:/xampp
