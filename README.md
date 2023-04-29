@@ -1,4 +1,4 @@
-HƯỚNG DẪN CHẠY FILE TRONG FOLDER 'test':
+# HƯỚNG DẪN CHẠY FILE TRONG FOLDER 'test': #
 
 BƯỚC 1: tải Xampp từ trang web https://www.apachefriends.org/download.html
 
