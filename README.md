@@ -10,7 +10,7 @@ _Lưu ý_: Tên thư mục cài đặt XAMPP không nên có khoảng trắng - 
 
 **Bước 3**: Tải folder 'test' xuống, ghi nhớ vị trí tải folder.
 
-**Bước 4**: Search trên máy từ khóa 'Xampp', hoặc trong lúc cài đặt, trình cài đặt sẽ hỏi địa chỉ để folder, hãy copy địa chỉ ấy rồi paste vào chức năng "tìm kiếm (Search)" trên thanh task bar.
+**Bước 4**: Search trên máy từ khóa 'Xampp', hoặc trong lúc cài đặt, trình cài đặt sẽ hỏi địa chỉ để folder, sau khi cài đặt xong 'Xampp' thì tìm nơi đã tải folder.
 
 **Bước 5**: Di dời folder 'test' từ bước 3 vào trong folder 'htdocs' của folder Xampp, chi tiết từ folder: xampp -> htdocs.
 
