@@ -19,7 +19,8 @@ Bước 6: Mở control panel xampp từ bước 4 và run 2 module là Apache v
 Bước 7: Vào browser và search địa chỉ sau: http://localhost/phpmyadmin/
 
 Bước 8: Bấm vào SQL và chạy paste đoạn mã sau:
-''' CREATE DATABASE book;
+''' sql
+CREATE DATABASE book;
 
 USE book;
 
