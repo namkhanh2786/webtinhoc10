@@ -10,9 +10,9 @@ Lưu ý: Tên thư mục cài đặt XAMPP không nên có khoảng trắng - 1 
 
 Bước 3: Tải folder 'test' xuống, ghi nhớ vị trí tải folder.
 
-Bước 4: Search trên máy từ khóa 'Xampp', hoặc trong lúc cài đặt, trình cài đặt sẽ hỏi địa chỉ để folder, hãy copy địa chỉ ấy rồi paste vào tìm kiếm trên thanh task bar.
+Bước 4: Search trên máy từ khóa 'Xampp', hoặc trong lúc cài đặt, trình cài đặt sẽ hỏi địa chỉ để folder, hãy copy địa chỉ ấy rồi paste vào chức năng "tìm kiếm (Search)" trên thanh task bar.
 
-Bước 5: Ta di dời folder 'test' từ bước 3 vào trong folder 'htdocs' của folder Xampp, chi tiết từ folder: xampp -> htdocs
+Bước 5: Di dời folder 'test' từ bước 3 vào trong folder 'htdocs' của folder Xampp, chi tiết từ folder: xampp -> htdocs
 
 Bước 6: Mở control panel xampp từ bước 4 và run 2 module là Apache và MySQL
 
@@ -28,7 +28,7 @@ CREATE TABLE book (
   post VARCHAR(50) COLLATE utf8mb4_general_ci NOT NULL,
   name VARCHAR(100) COLLATE utf8mb4_general_ci NOT NULL,
   author VARCHAR(100) COLLATE utf8mb4_general_ci NOT NULL,
-  genre VARCHAR(100) COLLATE utf8mb4_general_ci NOT NULL,
+  gerne VARCHAR(100) COLLATE utf8mb4_general_ci NOT NULL,
   description TEXT COLLATE utf8_general_ci NOT NULL
 );
 
